@@ -9,6 +9,8 @@ The project was made using the [UV](https://docs.astral.sh/uv/) package manager.
 
 The current behaviour is if you press ```C``` on your keyboard, a random colour is assigned to the sand.
 The default colour is white.
+Here's a short demo vid ⏯️
 
-*maybe I will add (or vibe code) some more functionalities into it in the future*
+[Demo](https://github.com/user-attachments/assets/2ec9591d-c501-4199-aa71-8f99d8b0ea03)
 
+-- *maybe I will add (or vibe code) some more functionalities into it in the future*
